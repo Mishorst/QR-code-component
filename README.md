@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Mishorst/QR-code-component]
-- Live Site URL: [https://qr-code-component-misho.netlify.app/]
+- Solution URL: [Github](https://github.com/Mishorst/QR-code-component)
+- Live Site URL: [Site](https://qr-code-component-misho.netlify.app/)
 
 ## My process
 
@@ -34,6 +34,6 @@ The areas I want to continue focusing on in future projects iclude:
 
 ## Author
 
-- Website - [Github](https://github.com/Mishorst/QR-code-component.git)
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Mishorst]
-- Twitter - [https://twitter.com/Mishorosto1]
+- Website - [Mishorst](https://github.com/Mishorst/QR-code-component.git)
+- Frontend Mentor - [@Mishorst](https://www.frontendmentor.io/profile/Mishorst)
+- Twitter - [@Mishorosto1](https://twitter.com/Mishorosto1)
